@@ -16,6 +16,11 @@ Cloud Security & DevSecOps
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [12. [Fine-tuning]: 설계한 데이터를 실제 학습으로 연결한다](https://itcase.tistory.com/entry/12-1-Fine-tuning-%EC%84%A4%EA%B3%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%8B%A4%EC%A0%9C-%ED%95%99%EC%8A%B5%EC%9C%BC%EB%A1%9C-%EC%97%B0%EA%B2%B0%ED%95%9C%EB%8B%A4)
+- [[실기]: 정보처리기사 실기 합격 후기 및 회고 &lpar;전공생&rpar;](https://itcase.tistory.com/entry/%EC%8B%A4%EA%B8%B0-%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-%EC%8B%A4%EA%B8%B0-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-%EB%B0%8F-%ED%9A%8C%EA%B3%A0-%EC%A0%84%EA%B3%B5%EC%83%9D)
+- [11-3. [Fine-tuning]: 쏠린 분포를 교정하다](https://itcase.tistory.com/entry/11-3-%E3%85%87%E3%85%87)
+- [11-2. [Fine-tuning]: Fine-tuning Dataset 설계](https://itcase.tistory.com/entry/11-2-Fine-tuning-Fine-tuning-Dataset-%EC%84%A4%EA%B3%84)
+- [11-1. [Fine-tuning]: 모델 바깥이 아닌 모델 안](https://itcase.tistory.com/entry/11-1-Fine-tuning-%EB%AA%A8%EB%8D%B8-%EB%B0%94%EA%B9%A5%EC%9D%B4-%EC%95%84%EB%8B%8C-%EB%AA%A8%EB%8D%B8-%EC%95%88)
 <!-- BLOG-POST-LIST:END -->
 
 ---
