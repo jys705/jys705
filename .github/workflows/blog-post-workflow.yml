@@ -19,3 +19,7 @@ jobs:
           feed_list: "https://itcase.tistory.com/rss"
           max_post_count: 5
           date_format: "mmm d, yyyy"
+          # 티스토리는 Accept: application/rss+xml 요청을 406으로 거부함
+          accept_header: "*/*"
+          retry_count: 3
+          retry_wait_time: 5
