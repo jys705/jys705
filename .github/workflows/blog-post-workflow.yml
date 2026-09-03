@@ -24,4 +24,7 @@ jobs:
           retry_count: 3
           retry_wait_time: 5
           # 티스토리 RSS가 제목의 &를 이중 인코딩(&amp;amp;)해서 내려보내는 버그 보정
-          item_exec: "post.title = post.title.replace(/&amp;/g, '&')"
+          # Security/News 카테고리 글은 목록에서 제외
+          item_exec: |
+            post.title = post.title.replace(/&amp;/g, '&');
+            if (post.categories.includes('Security/News')) { post = null; }
