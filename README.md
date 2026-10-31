@@ -19,7 +19,6 @@ Cloud Security & DevSecOps
 <!-- BLOG-POST-LIST:START -->
 - [AWS SCS-C03 취득 후기 및 회고](https://itcase.tistory.com/entry/AWS-SCS-C03-%EC%B7%A8%EB%93%9D-%ED%9B%84%EA%B8%B0-%EB%B0%8F-%ED%9A%8C%EA%B3%A0)
 - [47. 이미지 &amp; 코드 무결성 : AWS Signer, EC2 Image Builder 골든 AMI 파이프라인](https://itcase.tistory.com/entry/47-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%BD%94%EB%93%9C-%EB%AC%B4%EA%B2%B0%EC%84%B1-AWS-Signer-EC2-Image-Builder-%EA%B3%A8%EB%93%A0-AMI-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8)
-- [46. Lambda 보안 : 실행 역할, VPC 배치, Function URL 인증](https://itcase.tistory.com/entry/46-Lambda-%EB%B3%B4%EC%95%88-%EC%8B%A4%ED%96%89-%EC%97%AD%ED%95%A0-VPC-%EB%B0%B0%EC%B9%98-Function-URL-%EC%9D%B8%EC%A6%9D)
 <!-- BLOG-POST-LIST:END -->
 
 ---
